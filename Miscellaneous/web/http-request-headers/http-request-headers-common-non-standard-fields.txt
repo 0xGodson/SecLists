@@ -32,3 +32,4 @@ X-XSRF-TOKEN
 Client-IP
 True-Client-IP
 Cluster-Client-IP
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
