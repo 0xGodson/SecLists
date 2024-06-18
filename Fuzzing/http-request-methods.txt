@@ -61,3 +61,4 @@ acl
 patch
 search
 arbitrary
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
